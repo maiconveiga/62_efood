@@ -10,7 +10,7 @@ A entrega deste exercício consiste em:
 
 5) Envie o link do projeto na Vercel através da plataforma.
 
-## onde parei Componentize - Parte I
+## onde parei Componentize - Parte I teste
 
 API para ser utilizada nos exercícios
 https://fake-api-tau.vercel.app/api/efood/restaurantes
